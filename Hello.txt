@@ -1,0 +1,5 @@
+Hello World!
+
+This text file is about my learning journey on Git and GitHub. To kickstart my learning process, I dove into a variety of resources, including books, online tutorials, and interactive courses. 
+
+With the command "git init"; this initializes a new Git repository, creating a hidden .git folder where Git stores its internal data for version control.
